@@ -1,2 +1,3 @@
-# ML_STANFORD
+# Machine Learning Algo Implementation
+
 Coursera Machine Learning Assignments
